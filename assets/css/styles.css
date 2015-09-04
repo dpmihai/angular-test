@@ -1,0 +1,15 @@
+body{
+  padding:20px;
+}
+
+.search{
+  margin-left:10px;
+}
+
+table thead {
+	background-color: lightblue;
+}
+
+#addEmail {
+	margin-left: 5px;
+}
